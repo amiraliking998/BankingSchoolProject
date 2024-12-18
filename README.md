@@ -28,6 +28,7 @@ This project simulates a basic banking system where users can create accounts, v
 - **HTML**: For structuring the content of the pages.
 - **CSS**: For styling and layout design.
 - **JavaScript**: For client-side functionality.
+## Technologies Can be Used in future
 - **Node.js**: For back-end logic (if applicable).
 - **MongoDB**: For storing user and transaction data (if applicable).
 - **Express.js**: For setting up the web server (if applicable).
